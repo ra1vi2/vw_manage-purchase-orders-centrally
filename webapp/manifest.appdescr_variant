@@ -1,0 +1,81 @@
+{
+	"fileName": "manifest",
+	"layer": "VENDOR",
+	"fileType": "appdescr_variant",
+	"reference": "ui.s2p.mm.pur.central.po.manage.s1",
+	"id": "vwks.nlp.s2p.mm.pocentral.manage",
+	"namespace": "apps/ui.s2p.mm.pur.central.po.manage.s1/appVariants/vwks.nlp.s2p.mm.pocentral.manage/",
+	"version": "1.0.0",
+	"content": [
+		{
+			"changeType": "appdescr_ui5_addLibraries",
+			"content": {
+				"libraries": {
+					"vwks.nlp.s2p.mm.reuse.lib": {
+				        "minVersion": "1.0.0",
+				        "lazy": false
+				    }
+				}
+			}
+		},
+		{
+			"changeType": "appdescr_app_addNewOutbound",
+			"content": {
+				"outbound": {
+					"PFO": {
+						"semanticObject": "ProcessFlow",
+            			"action": "overview"
+					}
+				}
+			}
+		},
+		{
+			"changeType": "appdescr_app_setTitle",
+			"content": {},
+			"texts": {
+				"i18n": "i18n/i18n.properties"
+			}
+		},
+		{
+			"changeType": "appdescr_ui5_addNewModelEnhanceWith",
+			"content": {
+				"modelId": "i18n|sap.suite.ui.generic.template.ListReport|C_CentralPurchaseOrderTP"
+			},
+			"texts": {
+				"i18n": "i18n/ListReport/C_CentralPurchaseOrderTP/i18n.properties"
+			}
+		},
+		{
+			"changeType": "appdescr_ui5_addNewModelEnhanceWith",
+			"content": {
+				"modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_CentralPurchaseOrderTP"
+			},
+			"texts": {
+				"i18n": "i18n/ObjectPage/C_CentralPurchaseOrderTP/i18n.properties"
+			}
+		},
+		{
+			"changeType": "appdescr_ui5_addNewModelEnhanceWith",
+			"content": {
+				"modelId": "i18n|sap.suite.ui.generic.template.ObjectPage|C_CentralPurchaseOrderItemTP"
+			},
+			"texts": {
+				"i18n": "i18n/ObjectPage/C_CentralPurchaseOrderItemTP/i18n.properties"
+			}
+		},
+		{
+			"changeType": "appdescr_fiori_setRegistrationIds",
+			"content": {
+				"registrationIds": [
+					"F3292"
+				]
+			}
+		},
+		{
+			"changeType": "appdescr_app_setAch",
+			"content": {
+				"ach": "XX-PROJ-CDP-TEST-808"
+			}
+		}
+	]
+}

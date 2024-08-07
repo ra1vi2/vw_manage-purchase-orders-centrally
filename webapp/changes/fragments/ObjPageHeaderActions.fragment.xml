@@ -1,0 +1,5 @@
+<!-- Use stable and unique id's!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns="sap.uxap">
+	<ObjectPageHeaderActionButton id="idPurReqPFORelatedLinkBtn" text="{i18n>PFORelatedLink}" icon="sap-icon://process" hideText="false"
+		press=".extension.vwks.nlp.s2p.mm.pocentral.manage.ObjectPageExtController.onPFOLinkPress"/>
+</core:FragmentDefinition>

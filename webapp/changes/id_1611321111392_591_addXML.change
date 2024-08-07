@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1611321111392_591_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "vwks/nlp/s2p/mm/pocentral/manage/changes/fragments/StatusHeaderGroupElements.fragment.xml",
+	"reference": "vwks.nlp.s2p.mm.pocentral.manage",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "groupElements",
+		"index": 0,
+		"fragmentPath": "fragments/StatusHeaderGroupElements.fragment.xml"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.central.po.manage.s1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_CentralPurchaseOrderTP--com.sap.vocabularies.UI.v1.FieldGroup::FurtherInformation::FormGroup",
+		"idIsLocal": false
+	},
+	"layer": "VENDOR",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.central.po.manage.s1/appVariants/vwks.nlp.s2p.mm.pocentral.manage/changes/",
+	"projectId": "vwks.nlp.s2p.mm.pocentral.manage",
+	"creation": "2021-01-22T13:12:12.708Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.3",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

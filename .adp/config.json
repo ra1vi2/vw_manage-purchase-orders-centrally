@@ -1,0 +1,11 @@
+{
+    "componentname": "ui.s2p.mm.pur.central.po.manage.s1",
+    "safeMode": false,
+    "appvariant": "vwks.nlp.s2p.mm.pocentral.manage",
+    "layer": "VENDOR",
+    "sourceSystem": "n1x_100",
+    "isOVPApp": false,
+    "isFioriElement": true,
+    "environment": "ABAP",
+    "ui5Version": "1.78.20"
+}

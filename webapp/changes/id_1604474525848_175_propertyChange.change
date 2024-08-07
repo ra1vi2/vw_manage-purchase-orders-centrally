@@ -1,0 +1,41 @@
+{
+	"fileName": "id_1604474525848_175_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"moduleName": "",
+	"reference": "vwks.nlp.s2p.mm.pocentral.manage",
+	"packageName": "$TMP",
+	"content": {
+		"property": "growingThreshold",
+		"newValue": 250
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.central.po.manage.s1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_CentralPurchaseOrderTP--responsiveTable",
+		"type": "sap.m.Table",
+		"idIsLocal": false
+	},
+	"layer": "VENDOR",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.central.po.manage.s1/appVariants/vwks.nlp.s2p.mm.pocentral.manage/changes/",
+	"projectId": "vwks.nlp.s2p.mm.pocentral.manage",
+	"creation": "2020-11-04T07:22:08.334Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.78.9",
+		"sourceChangeFileName": "",
+		"compositeCommand": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

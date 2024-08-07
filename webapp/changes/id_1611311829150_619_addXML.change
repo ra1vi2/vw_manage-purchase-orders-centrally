@@ -1,0 +1,37 @@
+{
+	"fileName": "id_1611311829150_619_addXML",
+	"fileType": "change",
+	"changeType": "addXML",
+	"moduleName": "vwks/nlp/s2p/mm/pocentral/manage/changes/fragments/ListReportTableColumns.fragment.xml",
+	"reference": "vwks.nlp.s2p.mm.pocentral.manage",
+	"packageName": "$TMP",
+	"content": {
+		"targetAggregation": "columns",
+		"index": 11,
+		"fragmentPath": "fragments/ListReportTableColumns.fragment.xml"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.pur.central.po.manage.s1::sap.suite.ui.generic.template.ListReport.view.ListReport::C_CentralPurchaseOrderTP--responsiveTable",
+		"idIsLocal": false
+	},
+	"layer": "VENDOR",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.pur.central.po.manage.s1/appVariants/vwks.nlp.s2p.mm.pocentral.manage/changes/",
+	"projectId": "vwks.nlp.s2p.mm.pocentral.manage",
+	"creation": "2021-01-22T10:45:12.454Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.3",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addXML"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
